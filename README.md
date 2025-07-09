@@ -27,6 +27,7 @@ The dashboard was built using the following tools and technologies:
 • File format - .pbix for development and .png for dashboard previews.
 
 ## Visualization
+![](https://github.com/Umeora-chikoo/Chocolate_Sales_Distribution_Dashboard/blob/main/Sales%20Distribution%20Dashboard.png)
 
 
 
